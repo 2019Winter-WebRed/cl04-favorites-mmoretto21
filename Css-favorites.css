@@ -1,0 +1,21 @@
+/*
+*Mia Moretto
+Class work
+Css-template.css
+*/
+
+/* the universal selector */
+*{
+} 
+/* Body attributes here */
+
+Body{ 
+} 
+
+img{width:400px;height:300px;} 
+
+
+#MyDog{width:425px;height:225px;} 
+
+figure{float:right;} 
+
